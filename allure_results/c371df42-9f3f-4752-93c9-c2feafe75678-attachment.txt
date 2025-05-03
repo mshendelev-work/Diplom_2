@@ -1,0 +1,2 @@
+{'success': True, 'user': {'email': 'lpxbweng@gmail.com', 'name': 'remeylbayg'}, 'accessToken': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4MTY4N2M5OWVkMjgwMDAxYjVkYWZjZCIsImlhdCI6MTc0NjMwNzAxNywiZXhwIjoxNzQ2MzA4MjE3fQ.4UnzZBmsXzvc7CY1u_suEOqY_ZysS5lrP4SIH0KfD3M', 'refreshToken': '3c6ed57dc0b5c5c947680998dcac8419f7fa6e75669fb7c76a882a0746d0e9b84ea6ab80f2f057fc'}
+{'email': 'lpxbweng@gmail.com', 'password': 'ucethdfmoe', 'name': 'remeylbayg'}

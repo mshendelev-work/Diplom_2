@@ -1,0 +1,2 @@
+{'success': True, 'user': {'email': 'jzdovaad@gmail.com', 'name': 'oqzowypexo'}, 'accessToken': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4MTY4N2M2OWVkMjgwMDAxYjVkYWZjNSIsImlhdCI6MTc0NjMwNzAxNCwiZXhwIjoxNzQ2MzA4MjE0fQ.6smCnzBOK1MDmz2UzyLNQQ9wep_XtL7t4sxmnrv2afM', 'refreshToken': '1c7c7d90c791333ed7c78ca9b12116b4dd34e6d3b982ecdf0fbff074bd0695f6dcab886217d8ae23'}
+{'email': 'jzdovaad@gmail.com', 'password': 'rnyfxfbydl', 'name': 'oqzowypexo'}

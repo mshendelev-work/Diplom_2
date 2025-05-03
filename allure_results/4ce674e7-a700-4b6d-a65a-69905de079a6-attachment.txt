@@ -1,0 +1,2 @@
+{'success': True, 'user': {'email': 'flgrgimy@gmail.com', 'name': 'sighruxhsz'}, 'accessToken': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4MTY4N2NmOWVkMjgwMDAxYjVkYWZkNyIsImlhdCI6MTc0NjMwNzAyMywiZXhwIjoxNzQ2MzA4MjIzfQ.UBO-UCyeTa0y-w2dX31UewwA-qi0F4vHXbhdzo7okJI', 'refreshToken': '47db4299ba822ac0b46131ee33ad84bd194e8e4d497dcf80eb4885a32472694d093a1082225d97b1'}
+{'email': 'flgrgimy@gmail.com', 'password': 'toufuimokl', 'name': 'sighruxhsz'}

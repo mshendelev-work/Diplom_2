@@ -1,0 +1,2 @@
+{'success': True, 'user': {'email': 'qouqkpms@gmail.com', 'name': 'hslkveohfp'}, 'accessToken': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4MTY4N2QxOWVkMjgwMDAxYjVkYWZkYiIsImlhdCI6MTc0NjMwNzAyNSwiZXhwIjoxNzQ2MzA4MjI1fQ.kGu1ADu5NXGIUGuc1jZ2txzQMisOqIek89GBYgEBaJE', 'refreshToken': '488822d4227fc07094552e0871343fc6ed932c99db8f1c6988867b206a43ac37cc2109343b232824'}
+{'email': 'qouqkpms@gmail.com', 'password': 'xhbjfcihzl', 'name': 'hslkveohfp'}

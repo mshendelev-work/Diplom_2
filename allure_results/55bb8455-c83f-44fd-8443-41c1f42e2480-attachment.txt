@@ -1,0 +1,2 @@
+{'success': True, 'user': {'email': 'jjaioktw@gmail.com', 'name': 'ubmicompnp'}, 'accessToken': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4MTY4N2M4OWVkMjgwMDAxYjVkYWZjYSIsImlhdCI6MTc0NjMwNzAxNiwiZXhwIjoxNzQ2MzA4MjE2fQ.lM3nfWrgK0uSN0gMr2hgvvi47ClvvVXrWIF2TPPadeI', 'refreshToken': '6a88c1cbccdfcb94b4e79348ab27c68fd84cbfa2891ebba0af7d74f08226105dfe7cf5687b05ae3f'}
+{'email': 'jjaioktw@gmail.com', 'password': 'gnmvydhuhg', 'name': 'ubmicompnp'}
