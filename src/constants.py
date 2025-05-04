@@ -13,12 +13,6 @@ class Account:
         'name': fake.unique.first_name()
     }
 
-    NONEXISTENT_USER_DATA = {
-        'email': 'userxxx@gmail.com',
-        'password': 'qwerty12345',
-        'name': 'Alexandr'
-    }
-
 
 class Message:
     MESSAGE_EXISTING_SIGNUP = 'User already exists'
