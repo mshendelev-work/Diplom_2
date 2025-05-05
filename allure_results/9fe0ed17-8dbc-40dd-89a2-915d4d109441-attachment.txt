@@ -1,2 +1,0 @@
-{'success': True, 'user': {'email': 'iebmfriz@gmail.com', 'name': 'iitwmlimgt'}, 'accessToken': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4MTY4N2NhOWVkMjgwMDAxYjVkYWZjZiIsImlhdCI6MTc0NjMwNzAxOCwiZXhwIjoxNzQ2MzA4MjE4fQ.msOj9WDmUjfbOBaEjO5x8m_e9lrZknms6ztPT5ESNi8', 'refreshToken': '6a2f66c1e1557f754386318620b2354fabc1fa522242531b2541524db0b9492c51362a6e9b23e533'}
-{'email': 'iebmfriz@gmail.com', 'password': 'eqkbocrvwh', 'name': 'iitwmlimgt'}

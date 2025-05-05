@@ -1,2 +1,0 @@
-{'success': True, 'user': {'email': 'vawidckl@gmail.com', 'name': 'dictyixhbb'}, 'accessToken': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4MTY4N2QwOWVkMjgwMDAxYjVkYWZkOSIsImlhdCI6MTc0NjMwNzAyNCwiZXhwIjoxNzQ2MzA4MjI0fQ.0CXbrJptb5EFbrw1JGCEV2sW466_xvnTx69tHU1p2Io', 'refreshToken': 'cda06ec3708d4b7781f5adef07dff31998f6a463a724a2657217baa5195b242d5caf9c26d1fdc880'}
-{'email': 'vawidckl@gmail.com', 'password': 'kugoabxxdu', 'name': 'dictyixhbb'}

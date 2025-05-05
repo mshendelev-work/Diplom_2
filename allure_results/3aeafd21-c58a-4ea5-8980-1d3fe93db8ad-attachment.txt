@@ -1,2 +1,0 @@
-{'success': True, 'user': {'email': 'yzvzosfx@gmail.com', 'name': 'rfcxospllz'}, 'accessToken': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4MTY4N2QyOWVkMjgwMDAxYjVkYWZkZSIsImlhdCI6MTc0NjMwNzAyNiwiZXhwIjoxNzQ2MzA4MjI2fQ.03j0x57tO9F7kjcyepUpi2OO1oU06KOJqNR-Phw3wlE', 'refreshToken': 'efe7686f028bb397f186ec69e7a6ba2cfa9a8c2ba8fed3ae57e76a7c7bee580215f3dc09aa59f7a8'}
-{'email': 'yzvzosfx@gmail.com', 'password': 'tbdhetuvjt', 'name': 'rfcxospllz'}

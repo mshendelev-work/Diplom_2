@@ -1,2 +1,0 @@
-{'success': True, 'user': {'email': 'asvpvwdp@gmail.com', 'name': 'lpkkpfuwkw'}, 'accessToken': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4MTY4N2M3OWVkMjgwMDAxYjVkYWZjNyIsImlhdCI6MTc0NjMwNzAxNSwiZXhwIjoxNzQ2MzA4MjE1fQ._44i-dTDUYARu3pBOg-JC51VvktV4zw-NvlSebZGPaU', 'refreshToken': 'ec5bcd1f3488a2270c85c6f3152e2d5036eb0a7b66ff2538886c25dd65a99853b085710972ba9207'}
-{'email': 'asvpvwdp@gmail.com', 'password': 'epuctnpvwq', 'name': 'lpkkpfuwkw'}
