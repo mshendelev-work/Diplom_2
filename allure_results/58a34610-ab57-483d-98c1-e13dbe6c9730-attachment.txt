@@ -1,0 +1,2 @@
+{'success': True, 'user': {'email': 'uwsxmlfk@gmail.com', 'name': 'biktsljusx'}, 'accessToken': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4MTkxMDk3OWVkMjgwMDAxYjVkZDFmNyIsImlhdCI6MTc0NjQ3MzExMSwiZXhwIjoxNzQ2NDc0MzExfQ.k_0Dlm0huJfCHGLvAoe-NfX1AHyPaucdxhAT8yDEm6Y', 'refreshToken': 'd17d8f25fc1886626d4f682bdc1b9d382a15327640e7978b64f5b95234653fdf3bd81d56d4deb006'}
+{'email': 'uwsxmlfk@gmail.com', 'password': 'hcwwkbmnjr', 'name': 'biktsljusx'}

@@ -1,0 +1,2 @@
+{'success': True, 'user': {'email': 'bndulttf@gmail.com', 'name': 'gapokmxmti'}, 'accessToken': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4MTkxMDllOWVkMjgwMDAxYjVkZDIwMCIsImlhdCI6MTc0NjQ3MzExOCwiZXhwIjoxNzQ2NDc0MzE4fQ.jIX99ffy0JrQmNt1JzHhoJ35v-yKeXyXE7nnYuaf2y0', 'refreshToken': '5624ef4213dcf4aaa2f84776980505cd03f43c94521dc9295ff588459245ac205bfb6e4420d20e01'}
+{'email': 'bndulttf@gmail.com', 'password': 'vcwaswfqis', 'name': 'gapokmxmti'}
