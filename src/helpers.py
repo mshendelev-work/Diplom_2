@@ -28,12 +28,11 @@ def register_new_courier_and_return_response():
 
     # отправляем запрос на регистрацию пользователя
     response = requests.post(f'{Url.BASE_URL}/auth/register', json=payload)
-    print(response.json())
 
     if response.status_code == 200:
         context['email'] = email
         context['password'] = password
         context['name'] = name
-    print(context)
+
     # возвращаем ответ
     return response
