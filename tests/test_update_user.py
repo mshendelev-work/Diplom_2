@@ -9,7 +9,7 @@ from src.stellar_burgers_api import StellarBurgersAPI
 class TestUpdateUser:
     @allure.title('Успешный запрос обновления данных пользователя возвращает код ответа 200 и обновлённые данные')
     def test_update_user_with_authorization(self, delete_user_after_create):
-        signup_response = register_new_courier_and_return_response()
+        register_new_courier_and_return_response()
         signin_response = StellarBurgersAPI.login_user(context.get('email'), context.get('password'))
         token = signin_response.json()['accessToken']
         context['email'] = Account.USER_DATA['email']
@@ -22,7 +22,7 @@ class TestUpdateUser:
     @allure.title('Запрос обновления данных пользователя без авторизации возвращает код ответа 401 и message:'
                   ' You should be authorised')
     def test_update_user_without_authorization(self, delete_user_after_create):
-        signup_response = register_new_courier_and_return_response()
+        register_new_courier_and_return_response()
         token = None
         update_response = StellarBurgersAPI.update_user(token, context['email'], context['name'])
         assert update_response.status_code == 401

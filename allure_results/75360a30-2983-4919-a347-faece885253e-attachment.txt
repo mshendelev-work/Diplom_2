@@ -1,2 +1,0 @@
-{'success': True, 'user': {'email': 'vndapbko@gmail.com', 'name': 'vnuhhhjeey'}, 'accessToken': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4MTkxMGE0OWVkMjgwMDAxYjVkZDIwZiIsImlhdCI6MTc0NjQ3MzEyNCwiZXhwIjoxNzQ2NDc0MzI0fQ.COo94siCKVS78gCS5MtGx3veY3jTpF9anpjLlNOYlTI', 'refreshToken': 'e4eb8c259cc2002348736043e27b30fbd3484eb3e0f0bf7909247325259572b307168fcc87133abb'}
-{'email': 'vndapbko@gmail.com', 'password': 'usdxqskotp', 'name': 'vnuhhhjeey'}

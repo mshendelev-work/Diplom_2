@@ -1,2 +1,0 @@
-{'success': True, 'user': {'email': 'gvkettpk@gmail.com', 'name': 'soqvtfdtbi'}, 'accessToken': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4MTkxMGEyOWVkMjgwMDAxYjVkZDIwYSIsImlhdCI6MTc0NjQ3MzEyMiwiZXhwIjoxNzQ2NDc0MzIyfQ.CpKYS0MyUJB_YKloIzoWFZ4dNAS1fxnOiifG7DbRtDY', 'refreshToken': 'e5200de3a5cd2154c05680b2c26daae2ccd8efad587ebfe2d2a551526fe88efb223b2b80109396d8'}
-{'email': 'gvkettpk@gmail.com', 'password': 'jhxdinwpfw', 'name': 'soqvtfdtbi'}

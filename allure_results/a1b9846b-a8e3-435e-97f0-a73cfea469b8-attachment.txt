@@ -1,2 +1,0 @@
-{'success': True, 'user': {'email': 'okchlefd@gmail.com', 'name': 'rtfpxzvbzp'}, 'accessToken': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4MTkxMGE1OWVkMjgwMDAxYjVkZDIxMSIsImlhdCI6MTc0NjQ3MzEyNSwiZXhwIjoxNzQ2NDc0MzI1fQ.9JmCKyybG8beKntoRkDZfwl-OeoPDLhV6_BPCZcA5dw', 'refreshToken': '2095c2a4140f634c1bc51e733e5e7c3f72d4ed888d7b20c2edfccfa5ee3e6a49acb6a36cd3548039'}
-{'email': 'okchlefd@gmail.com', 'password': 'ajxjqrncgt', 'name': 'rtfpxzvbzp'}

@@ -1,2 +1,0 @@
-{'success': True, 'user': {'email': 'zeeelfmv@gmail.com', 'name': 'xhmoqzfyds'}, 'accessToken': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4MTkxMDlkOWVkMjgwMDAxYjVkZDFmZCIsImlhdCI6MTc0NjQ3MzExNywiZXhwIjoxNzQ2NDc0MzE3fQ.de2fpbueBhqps24F3tzzdoY8T_dyzq8bTvZM5YS0kMs', 'refreshToken': 'eca9f78bbc3f1b1ecde32e6800b7b51a62080263e6af02156c6019b83a1894f90a76ce642a95f262'}
-{'email': 'zeeelfmv@gmail.com', 'password': 'sblqjyfowo', 'name': 'xhmoqzfyds'}

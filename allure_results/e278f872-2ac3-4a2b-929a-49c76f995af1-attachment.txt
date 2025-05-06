@@ -1,2 +1,0 @@
-{'success': True, 'user': {'email': 'kvpvqnwx@gmail.com', 'name': 'qxsodpinwb'}, 'accessToken': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4MTkxMGE2OWVkMjgwMDAxYjVkZDIxNCIsImlhdCI6MTc0NjQ3MzEyNiwiZXhwIjoxNzQ2NDc0MzI2fQ.T_7B5GKv9EKxzuvCCbgOSuEx56VbQD1neiRTFvpCcRM', 'refreshToken': 'd83940b1a8155b732173c4c6e9d79638e9613a2313a1e0d748e8fd26e9e755a5ad27fc3506c571f2'}
-{'email': 'kvpvqnwx@gmail.com', 'password': 'gnujsnvmjv', 'name': 'qxsodpinwb'}
